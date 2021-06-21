@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766172991378",
+    "project_id": "angleseahospitaldatabase",
+    "storage_bucket": "angleseahospitaldatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766172991378:android:83af5e4740734386ed3b4b",
+        "android_client_info": {
+          "package_name": "com.part7.angleseahospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766172991378-fmd14circv7tdt3f4grbsdjrit8ap54o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrChVP3sJyeZ8TQT5vsmFJg_jxivi7fuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766172991378-fmd14circv7tdt3f4grbsdjrit8ap54o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
